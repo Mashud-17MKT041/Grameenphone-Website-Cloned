@@ -1,0 +1,281 @@
+
+@media all and (max-width: 992px) {
+
+    ul.get-gp-hidden-responsive {
+        display: none;
+    }
+
+    .header-first-left ul {
+        display: none;
+    }
+
+    .header-last {
+        display: none;
+    }
+
+    .for-hamburger-menu {
+        display: block;
+        cursor: pointer;
+    }
+
+    .after-header-first-slider::before {
+        display: none;
+    }
+
+    .after-header-first-slider::after {
+        display: none;
+    }
+
+    .container-custom {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    /* after header first */
+
+    .row.for-order-1 {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .col-lg-4.col-for-al-center {
+        justify-content: center;
+    }
+
+    .col-8-wrap {
+        margin-top: 0px;
+    }
+
+    .col-8-img img {
+        border-radius: 0;
+    }
+
+    .container-custom {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .container-custom-for-after-header-responsive {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .col-4-wrap {
+        padding: 25px 0;
+        text-align: center;
+    }
+
+    .glide-main-area {
+        padding: 30px 0px;
+    }
+
+    .single-phone- {
+        margin-bottom: 25px;
+    }
+
+    .learn-mws-s-img {
+        margin-bottom: 18px;
+    }
+
+    .col-lg-6.my-gp-app-first-6.second-col-lg-6-slider {
+        margin-bottom: 18px;
+    }
+
+    .my-gp-app-area {
+        padding: 30px 0;
+    }
+
+    .col-lg-7.enjoy-privilege-cf-first {
+        margin-bottom: 15px;
+    }
+
+    .col-lg-5.enjoy-privilege-cl-first {
+        margin-bottom: 18px;
+    }
+
+    .how-can-help-area {
+        padding: 30px 0;
+        background: #ffff;
+    }
+
+    .how-can-help-content {
+        margin-top: 20px;
+    }
+
+    .after-header-f-slider-wrap {
+        padding-top: 55px;
+    }
+
+    .hambergur-menu-area {
+        top: 51px
+    }
+
+    .for-hr {
+        display: none;
+    }
+
+    .hambergur-step-three {
+        bottom: 60px;
+    }
+
+    
+}
+
+@media all and (max-width: 768px) {
+    .glide__arrows {
+        font-size: 14px;
+    }
+
+    .col-lg-7.col-sm-7.my-offer-center {
+        margin-bottom: 20px;
+    }
+
+    .my-offer-area {
+        padding: 20px 0;
+    }
+
+    .my-offer-img {
+        width: 100%;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .single-phone- {
+        margin-bottom: 30px;
+    }
+
+    .join-4G-revolution-area {
+        background: #fff;
+        padding: 35px 0px;
+    }
+
+    .col-lg-6.join-sakib {
+        margin-bottom: 20px;
+    }
+
+    .join-sakib {
+        padding-bottom: 25px;
+    }
+
+    .enjoy-of-privillage-area {
+        background: #E6EEF4;
+        padding: 35px 0px;
+    }
+
+    .container-custom2 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .my-gp-app-first-6 {
+        padding-top: 30px;
+    }
+
+    .container-custom3 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .single-how-can-help.col-lg-3.col-md-6.col-xs-6 {
+        margin-bottom: 12px;
+    }
+
+    .experience-life-speed-wrap {
+        padding: 50px 0;
+        color: #fff;
+    }
+
+    .single-experience-life-speed {
+        max-width: 416px;
+        margin: auto;
+    }
+
+    footer#footer-area {
+        background: #f5f5f5;
+        padding: 30px 0 10px;
+    }
+
+    .col-lg-2.footer-col-div {
+        margin-bottom: 22px;
+    }
+
+    .footer-soial-icon {
+        margin-bottom: 30px;
+    }
+
+    .whats-new-area {
+        background: #e6eef4;
+        padding: 30px 0;
+    }
+
+    .for-iframe iframe {
+        width: 600px;
+    }
+
+    
+}
+
+@media all and (max-width: 576px) {
+    .row.header-first-flex-issue {
+        display: flex;
+        flex-wrap: nowrap;
+        width: 34%;
+    }
+
+    .header-logo-img img {
+        width: 38px;
+    }
+
+    .footer-developer-cloned-section {
+        margin-top: 9px;
+        text-align: center;
+        margin-bottom: -18px;
+    }
+
+    .footer-developer-cloned-section a p {
+        font-size: 16px;
+    }
+
+    .for-iframe iframe {
+        width: 100%;
+    }
+
+    .single-experience-life-speed {
+        max-width: 394px;
+        margin: auto;
+    }
+
+    .after-footer-gp-name {
+        padding: 20px 0;
+        border-bottom: 1px solid #d6d6d6;
+    }
+}
+
+@media all and (max-width: 369px) {
+    .for-cross-icon-hambergur {
+        top: 10px;
+        right: -15px;
+        padding: 4px 8px;
+    }
+
+    .for-iframe iframe {
+        width: 100%;
+    }
+}
+
+@media all and (max-width: 330px) {
+    .hambergur-menu-area {
+        width: 306px
+    }
+
+    .for-cross-icon-hambergur {
+        top: 36px;
+        right: -1px;
+        padding: 3px 8px;
+    }
+}
+
+
+
