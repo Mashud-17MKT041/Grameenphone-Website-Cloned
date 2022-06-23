@@ -107,7 +107,7 @@
     }
 
     .hambergur-menu-area {
-        top: 51px
+        z-index: 999999;
     }
 
     .for-hr {
